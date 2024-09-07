@@ -11,7 +11,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.TimeUnit;
 
 @SpringBootApplication
-@Configurable
 public class Application {
 
     public static void main(String[] args) {
